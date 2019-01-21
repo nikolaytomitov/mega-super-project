@@ -1,1 +1,1 @@
-console.log(54);
+console.log("Zashto trqbva da go uchim tova? Neshto po-interesno tolkoz li nqma?")
